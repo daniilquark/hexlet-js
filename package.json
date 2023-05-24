@@ -1,0 +1,11 @@
+{
+  "name": "hexlet",
+  "version": "1.0.0",
+  "description": "My project",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log('Hello, World!');"
+  },
+  "author": "",
+  "license": "ISC"
+}
