@@ -9,5 +9,8 @@
   },
   "author": "Daniil",
   "homepage": "https://github.com/daniilquark/hexlet-js",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
